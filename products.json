@@ -1,0 +1,1468 @@
+{
+  "businessName": "Creative Chairs",
+  "whatsappNumber": "919867863763",
+  "categories": [
+    "Ergohuman Series",
+    "Recliner Series",
+    "Premium Executive Cushion Chairs",
+    "High-End Ergonomic Mesh Chairs",
+    "Workstation Series",
+    "Training Room Chairs",
+    "Tandem Seating (Airport / Waiting Lounge)"
+  ],
+  "products": [
+    {
+      "id": "aura-full-leather",
+      "name": "AURA FULL LEATHER",
+      "category": "Ergohuman Series",
+      "backType": "High Back & Medium Back",
+      "colors": [
+        "TAN",
+        "BLACK"
+      ],
+      "price": 83000,
+      "priceNote": "Starting price (MEDIUM BACK MB), per unit",
+      "priceVariants": [
+        {
+          "label": "HIGH BACK HB",
+          "price": 84000
+        }
+      ],
+      "images": [
+        "images/aura-full-leather-1.jpg"
+      ],
+      "specs": [
+        "Finest original leather on seat & back",
+        "2D headrest with height & angle adjustment",
+        "Height adjustable backrest with tension adjustable 6D flexible lumbar support",
+        "Floating drift tilt mechanism with glass fiber offers smoother tilt",
+        "Eagle main control system for seat height, seat depth, back recline and tilt tension adjustments",
+        "Seat & back forward tilt adjustment",
+        "5D armrest with arm angle, height, depth, width and front-end tilt up adjustment",
+        "Polished Aluminum base",
+        "100mm Class 4 Gas lift with 65mm PU castors"
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "aura-elite-2-0",
+      "name": "AURA ELITE 2.0",
+      "category": "Ergohuman Series",
+      "backType": "High Back",
+      "colors": [
+        "BLACK",
+        "GREY"
+      ],
+      "price": 76000,
+      "priceNote": "Starting price (BLACK HB), per unit | Add-ons: footrest: 12,000/- EXTRA",
+      "priceVariants": [
+        {
+          "label": "GREY HB",
+          "price": 80000
+        }
+      ],
+      "images": [
+        "images/aura-elite-2-0-1.jpg"
+      ],
+      "specs": [
+        "Ergonomic Design: Enhances efficiency and comfort.",
+        "Breathable Mesh: High-quality Korean mesh prevents sweating.",
+        "Mechanism: Single lever for multi adjustments: multi-locking, seat sliding, height adjustment.",
+        "Full Adjustment: Headrest, Backrest, Seat, 5D Armrest; BIFMA gas lift; Aluminum Diecast Base with Nylon Castors."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "aura-ultra",
+      "name": "AURA ULTRA",
+      "category": "Ergohuman Series",
+      "backType": "High Back",
+      "colors": [
+        "BLACK",
+        "GREY"
+      ],
+      "price": 64000,
+      "priceNote": "Starting price (BLACK HB), per unit | Add-ons: footrest: 12,000/- EXTRA",
+      "priceVariants": [
+        {
+          "label": "GREY HB",
+          "price": 68000
+        }
+      ],
+      "images": [
+        "images/aura-ultra-1.jpg"
+      ],
+      "specs": [
+        "Ergonomic Design: Enhances efficiency and comfort.",
+        "Breathable Mesh: High-quality Korean wire mesh prevents sweating.",
+        "Mechanism: Single lever for multi adjustments: multi-locking, seat sliding, height adjustment.",
+        "Full Adjustment: Headrest, Backrest, Seat, 5D Armrest; BIFMA gas lift; Aluminum Diecast Base with Nylon Castors."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "cosmo",
+      "name": "COSMO",
+      "category": "Recliner Series",
+      "backType": null,
+      "colors": [
+        "TAN",
+        "GREY"
+      ],
+      "price": 115000,
+      "priceNote": "Starting price (MRP), per unit",
+      "priceVariants": [],
+      "images": [
+        "images/cosmo-1.jpg"
+      ],
+      "specs": [
+        "Leather: Black Gold Top Grain Leather",
+        "Foam: 45 Density High Rebound Sponge",
+        "Armrest: Custom Painted Resin Armrest",
+        "Battery: 3300mAh Battery Pack",
+        "Chassis: B032 Single-Line Single Motor Chassis",
+        "Lifting Gas Strut: Black Level 4 Gas Strut (D40Y40)",
+        "Feet: Aluminum Alloy Petal-Shaped Feet",
+        "Wheels: Electroplated Black Rim Wheels"
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "zentro",
+      "name": "ZENTRO",
+      "category": "Recliner Series",
+      "backType": null,
+      "colors": [],
+      "price": 75000,
+      "priceNote": "Starting price (MRP), per unit",
+      "priceVariants": [],
+      "images": [
+        "images/zentro-1.jpg"
+      ],
+      "specs": [
+        "Leather: Imported Leather",
+        "Foam: 45 Density High Rebound Sponge",
+        "Battery: 22mAh Battery Pack",
+        "Chassis: Single Motor Chassis",
+        "Lifting Gas Strut: Black Level 4",
+        "Armrest: Aluminum alloy and painted armrests",
+        "Feet: Electroplated Feet",
+        "Wheels: Electroplated Wheels"
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "imperio",
+      "name": "IMPERIO",
+      "category": "Recliner Series",
+      "backType": null,
+      "colors": [],
+      "price": 72000,
+      "priceNote": "Starting price (MRP), per unit",
+      "priceVariants": [],
+      "images": [
+        "images/imperio-1.jpg"
+      ],
+      "specs": [
+        "Leather: Cream Nappa Leather",
+        "Foam: 45 Density High Rebound Sponge",
+        "Battery: 22mAh Battery Pack",
+        "Chassis: Single Motor Chassis",
+        "Lifting Gas Strut: Black Level 4",
+        "Armrest: Custom Armrest",
+        "Feet: Electroplated Flat Feet",
+        "Wheels: Electroplated Wheels"
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "axora",
+      "name": "AXORA",
+      "category": "Recliner Series",
+      "backType": null,
+      "colors": [],
+      "price": 24000,
+      "priceNote": "Starting price (MRP), per unit",
+      "priceVariants": [],
+      "images": [
+        "images/axora-1.jpg"
+      ],
+      "specs": [
+        "Padded leisure Chair with gravity levitation technology (no mechanism design)",
+        "Iron Frame/Iron base",
+        "Max Tilting angle 150 degrees, 3 angle lockable",
+        "Height adjustable within 8cm",
+        "Footrest adjustable for sleeping"
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "reclino",
+      "name": "RECLINO",
+      "category": "Recliner Series",
+      "backType": "High Back",
+      "colors": [],
+      "price": 19500,
+      "priceNote": "Starting price (HIGH BACK HB), per unit",
+      "priceVariants": [],
+      "images": [
+        "images/reclino-1.jpg"
+      ],
+      "specs": [
+        "Ergonomic Design: Glass filled nylon backrest chair for comfort and efficiency.",
+        "Breathable Mesh: High-quality material prevents sweating.",
+        "Mechanism: '160 degree laying down with footrests' design for relaxation.",
+        "Full Adjustment: Headrest, Lumbar support; BIFMA gas lift; High-density foam seat; R340 Nylon Base with Castors."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "relaxo",
+      "name": "RELAXO",
+      "category": "Recliner Series",
+      "backType": "High Back",
+      "colors": [],
+      "price": 16500,
+      "priceNote": "Starting price (HIGH BACK HB), per unit",
+      "priceVariants": [],
+      "images": [
+        "images/relaxo-1.jpg"
+      ],
+      "specs": [
+        "Ergonomic Design: Glass filled nylon backrest chair for comfort and efficiency.",
+        "Breathable Mesh: High-quality material prevents sweating.",
+        "Mechanism: '160 degree laying down with footrests' design for relaxation.",
+        "Full Adjustment: Headrest, Lumbar support; BIFMA gas lift; High-density foam seat; R340 Nylon Base with Castors."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "alpha",
+      "name": "ALPHA",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": "High Back & Medium Back",
+      "colors": [
+        "BEIGE + BLUE"
+      ],
+      "price": 84000,
+      "priceNote": "Starting price (MEDIUM BACK MB), per unit",
+      "priceVariants": [
+        {
+          "label": "HIGH BACK HB",
+          "price": 88000
+        }
+      ],
+      "images": [
+        "images/alpha-1.jpg"
+      ],
+      "specs": [
+        "Imported first-layer yellow bovine leather cover",
+        "Structure and Foam: Built-in iron frame structure + high-density molded foam support",
+        "Finish: Gun colour metal",
+        "Base: Dongli multifunctional luxury base, with arbitrary locking",
+        "Gas Lift: Imported Sanhong gas lift for safer height adjustment",
+        "Chair Legs: High-strength 350# aluminum alloy legs, static pressure test of 1136KG, meeting BIFMA standards",
+        "Chair Casters: 60# silent PU wheels"
+      ],
+      "description": "TITANIUM GUN METAL FINISH",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "vellor",
+      "name": "VELLOR",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": "High Back & Medium Back",
+      "colors": [
+        "BEIGE + TAN",
+        "DARK GREY + TAN",
+        "TAN + BEIGE"
+      ],
+      "price": 77000,
+      "priceNote": "Starting price (MEDIUM BACK MB), per unit",
+      "priceVariants": [
+        {
+          "label": "HIGH BACK HB",
+          "price": 80000
+        }
+      ],
+      "images": [
+        "images/vellor-1.jpg"
+      ],
+      "specs": [
+        "High back revolving chair in soft PU with adjustable headrest",
+        "Aluminum arm frame / back support / base",
+        "Sliding seat",
+        "Auto weight balance mechanism with Aluminium in gun black color"
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "moon-leather",
+      "name": "MOON LEATHER",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": "High Back & Medium Back",
+      "colors": [],
+      "price": 67000,
+      "priceNote": "Starting price (MEDIUM BACK MB), per unit",
+      "priceVariants": [
+        {
+          "label": "HIGH BACK HB",
+          "price": 69000
+        }
+      ],
+      "images": [
+        "images/moon-leather-1.jpg"
+      ],
+      "specs": [
+        "Finest original leather on seat & back.",
+        "Weight Balance Synchro mechanism with multi-locking function and seat slider.",
+        "Aluminium die cast armrest with padded cushion.",
+        "700mm Aluminium die cast base with 60mm nylon castors & class 4 gaslift."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "cruise-leather-cruise-pu",
+      "name": "CRUISE LEATHER / CRUISE PU",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": "High Back & Medium Back",
+      "colors": [],
+      "price": 56000,
+      "priceNote": "Starting price (PU MB), per unit",
+      "priceVariants": [
+        {
+          "label": "PU HB",
+          "price": 60000
+        },
+        {
+          "label": "LEATHER MB",
+          "price": 73000
+        },
+        {
+          "label": "LEATHER HB",
+          "price": 78000
+        }
+      ],
+      "images": [
+        "images/cruise-leather-cruise-pu-1.jpg"
+      ],
+      "specs": [
+        "Finest original/composite leather on seat & back.",
+        "Aluminium die cast armrest with padded cushion.",
+        "Weight balance synchro mechanism with multi-locking function and seat slider.",
+        "700mm Aluminium diecast base with 60mm nylon castors & Class 4 gaslift."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "zest",
+      "name": "ZEST",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": "High Back & Medium Back",
+      "colors": [],
+      "price": 38000,
+      "priceNote": "Starting price (MEDIUM BACK MB), per unit",
+      "priceVariants": [
+        {
+          "label": "HIGH BACK HB",
+          "price": 39000
+        }
+      ],
+      "images": [
+        "images/zest-1.jpg"
+      ],
+      "specs": [
+        "Composite leather on seat & back.",
+        "Wired mechanism with multi-locking function and seat slider.",
+        "Aluminium die cast armrest with padded cushion.",
+        "700mm Aluminium die cast base with 60mm nylon castors & class 4 gaslift."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "royce",
+      "name": "ROYCE",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": "High Back & Medium Back",
+      "colors": [],
+      "price": 36000,
+      "priceNote": "Starting price (MEDIUM BACK MB), per unit",
+      "priceVariants": [
+        {
+          "label": "HIGH BACK HB",
+          "price": 37000
+        }
+      ],
+      "images": [
+        "images/royce-1.jpg"
+      ],
+      "specs": [
+        "Bent plywood curve back with 3-layered cushion.",
+        "Designer premium chrome armrest with soft PU insert cushion.",
+        "Finest composite leather on seat, back and headrest.",
+        "Synchro mechanism with multi-locking function.",
+        "Aluminium base with PU castors and gas lift for height adjustment."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "pearl",
+      "name": "PEARL",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": "High Back & Medium Back",
+      "colors": [],
+      "price": 34000,
+      "priceNote": "Starting price (MEDIUM BACK MB), per unit",
+      "priceVariants": [
+        {
+          "label": "HIGH BACK HB",
+          "price": 35000
+        }
+      ],
+      "images": [
+        "images/pearl-1.jpg"
+      ],
+      "specs": [
+        "Finest composite leather on seat & back.",
+        "Cushion padded Lumbar support with Headrest.",
+        "Veneer finish PU on Back and Handle.",
+        "Knee tilt mechanism with multi-locking function.",
+        "700mm Aluminium diecast base with 60mm nylon castors & class 4 gaslift."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "joy-crown",
+      "name": "JOY / CROWN",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": "High Back & Medium Back",
+      "colors": [],
+      "price": 33000,
+      "priceNote": "Starting price (CROWN MB), per unit",
+      "priceVariants": [
+        {
+          "label": "JOY MB",
+          "price": 34000
+        },
+        {
+          "label": "CROWN HB",
+          "price": 34000
+        },
+        {
+          "label": "JOY HB",
+          "price": 35000
+        }
+      ],
+      "images": [
+        "images/joy-crown-1.jpg"
+      ],
+      "specs": [
+        "Adjustable headrest.",
+        "Bent plywood curve back with 3-layered cushion.",
+        "Designer premium aluminium armrest with soft PU insert cushion.",
+        "Finest composite leather on seat and back.",
+        "Knee tilt mechanism with multi-locking function; Gas lift for height adjustment; Aluminium base with PU castors."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "comfy",
+      "name": "COMFY",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": "High Back & Medium Back",
+      "colors": [
+        "BLACK",
+        "BROWN"
+      ],
+      "price": 32000,
+      "priceNote": "Starting price (MEDIUM BACK MB), per unit",
+      "priceVariants": [
+        {
+          "label": "HIGH BACK HB",
+          "price": 33000
+        }
+      ],
+      "images": [
+        "images/comfy-1.jpg"
+      ],
+      "specs": [
+        "Leather: Finest composite on seat & back.",
+        "Armrest: Aluminium die cast with cushion.",
+        "Mechanism: Knee tilt with multi-locking.",
+        "Base: 700mm Aluminium die cast with nylon castors & Class 4 Gas-lift."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "russet-tan-grey",
+      "name": "RUSSET (TAN / GREY)",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 28000,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/russet-tan-grey-1.jpg"
+      ],
+      "specs": [
+        "Finest PU leather, Weight Balance Synchro mechanism, seat slider, gun colour armrest + PU pad, class 3 gas lift."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "magna",
+      "name": "MAGNA",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 28000,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/magna-1.jpg"
+      ],
+      "specs": [
+        "Bent plywood curve back, 3-layered cushion, designer veneer armrest, synchro multi-locking, durable composite leather."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "felix",
+      "name": "FELIX",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 28000,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/felix-1.jpg"
+      ],
+      "specs": [
+        "Bent plywood curve back, nylon PP armrest with PU cushion pad, synchro multi-locking, aluminium base."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "winglet",
+      "name": "WINGLET",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 28000,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/winglet-1.jpg"
+      ],
+      "specs": [
+        "High density mold foam, solid aluminium armrest, PU upholstery, synchronized 4-position lock mechanism."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "oslo",
+      "name": "OSLO",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 15500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/oslo-1.jpg"
+      ],
+      "specs": [
+        "Premium composite/PU leather options with ergonomic layered cushioning.",
+        "Bent plywood or veneer finishes with high strength aluminium/chrome bases.",
+        "Synchro or torsion bar mechanisms with reliable multi-locking performance."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "veneer",
+      "name": "VENEER",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 15500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/veneer-1.jpg"
+      ],
+      "specs": [
+        "Premium composite/PU leather options with ergonomic layered cushioning.",
+        "Bent plywood or veneer finishes with high strength aluminium/chrome bases.",
+        "Synchro or torsion bar mechanisms with reliable multi-locking performance."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "nivara",
+      "name": "NIVARA",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 15500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/nivara-1.jpg"
+      ],
+      "specs": [
+        "Premium composite/PU leather options with ergonomic layered cushioning.",
+        "Bent plywood or veneer finishes with high strength aluminium/chrome bases.",
+        "Synchro or torsion bar mechanisms with reliable multi-locking performance."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "hector",
+      "name": "HECTOR",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 15500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/hector-1.jpg"
+      ],
+      "specs": [
+        "Premium composite/PU leather options with ergonomic layered cushioning.",
+        "Bent plywood or veneer finishes with high strength aluminium/chrome bases.",
+        "Synchro or torsion bar mechanisms with reliable multi-locking performance."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "zen",
+      "name": "ZEN",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 15500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/zen-1.jpg"
+      ],
+      "specs": [
+        "Premium composite/PU leather options with ergonomic layered cushioning.",
+        "Bent plywood or veneer finishes with high strength aluminium/chrome bases.",
+        "Synchro or torsion bar mechanisms with reliable multi-locking performance."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "elevia",
+      "name": "ELEVIA",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 15500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/elevia-1.jpg"
+      ],
+      "specs": [
+        "Premium composite/PU leather options with ergonomic layered cushioning.",
+        "Bent plywood or veneer finishes with high strength aluminium/chrome bases.",
+        "Synchro or torsion bar mechanisms with reliable multi-locking performance."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "aqua",
+      "name": "AQUA",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 15500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/aqua-1.jpg"
+      ],
+      "specs": [
+        "Premium composite/PU leather options with ergonomic layered cushioning.",
+        "Bent plywood or veneer finishes with high strength aluminium/chrome bases.",
+        "Synchro or torsion bar mechanisms with reliable multi-locking performance."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "discovery",
+      "name": "DISCOVERY",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 14500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/discovery-1.jpg"
+      ],
+      "specs": [
+        "Durable composite leather finishes with rich color choices (Beige, Tan, Brown, Black, Green, Grey, Dark Blue).",
+        "Premium crystal chrome or dark grey metallic finishes for executive offices."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "diamond",
+      "name": "DIAMOND",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 14500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/diamond-1.jpg"
+      ],
+      "specs": [
+        "Durable composite leather finishes with rich color choices (Beige, Tan, Brown, Black, Green, Grey, Dark Blue).",
+        "Premium crystal chrome or dark grey metallic finishes for executive offices."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "bella",
+      "name": "BELLA",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 14500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/bella-1.jpg"
+      ],
+      "specs": [
+        "Durable composite leather finishes with rich color choices (Beige, Tan, Brown, Black, Green, Grey, Dark Blue).",
+        "Premium crystal chrome or dark grey metallic finishes for executive offices."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "elegance",
+      "name": "ELEGANCE",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 14500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/elegance-1.jpg"
+      ],
+      "specs": [
+        "Durable composite leather finishes with rich color choices (Beige, Tan, Brown, Black, Green, Grey, Dark Blue).",
+        "Premium crystal chrome or dark grey metallic finishes for executive offices."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "hazel",
+      "name": "HAZEL",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 14500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/hazel-1.jpg"
+      ],
+      "specs": [
+        "Durable composite leather finishes with rich color choices (Beige, Tan, Brown, Black, Green, Grey, Dark Blue).",
+        "Premium crystal chrome or dark grey metallic finishes for executive offices."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "fabio",
+      "name": "FABIO",
+      "category": "Premium Executive Cushion Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 14500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/fabio-1.jpg"
+      ],
+      "specs": [
+        "Durable composite leather finishes with rich color choices (Beige, Tan, Brown, Black, Green, Grey, Dark Blue).",
+        "Premium crystal chrome or dark grey metallic finishes for executive offices."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "avatar",
+      "name": "AVATAR",
+      "category": "High-End Ergonomic Mesh Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 45000,
+      "priceNote": "Starting price (MRP), per unit",
+      "priceVariants": [],
+      "images": [
+        "images/avatar-1.jpg"
+      ],
+      "specs": [
+        "Ergonomic Backrest: Contoured to support the natural curve of the spine.",
+        "Adjustable Lumbar Support: Nylon aerodynamic flexible lumbar support with up-down adjustment.",
+        "Armrest Controls: Integrated controls on armrests for height adjustment and back angle locking mechanism.",
+        "Sliding Seat & 4D Armrests: Adjusts in height, width, depth, and pivot.",
+        "Forward Tilt Function & Back Angle Locking: Multiple locking positions."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "gravity-series",
+      "name": "GRAVITY SERIES",
+      "category": "High-End Ergonomic Mesh Chairs",
+      "backType": "High Back & Medium Back",
+      "colors": [
+        "BLUE CUSHION",
+        "BLACK CUSHION",
+        "GREY MESH"
+      ],
+      "price": 31500,
+      "priceNote": "Starting price (GREY MESH MB), per unit",
+      "priceVariants": [
+        {
+          "label": "BLACK CUSHION MB",
+          "price": 32000
+        },
+        {
+          "label": "GREY MESH HB",
+          "price": 32500
+        },
+        {
+          "label": "BLACK CUSHION HB",
+          "price": 33000
+        },
+        {
+          "label": "BLUE CUSHION MB",
+          "price": 34000
+        },
+        {
+          "label": "BLUE CUSHION HB",
+          "price": 35000
+        }
+      ],
+      "images": [
+        "images/gravity-series-1.jpg"
+      ],
+      "specs": [
+        "Glass filled nylon back with high-quality fabric/mesh.",
+        "3D armrest, fixed Lumbar support.",
+        "Gravity back tracking mechanism with Synchro Multi-lock or Centre tilt single lock.",
+        "650mm nylon base with 60mm nylon castors & class 4 Gas lift."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "fedo-series",
+      "name": "FEDO SERIES",
+      "category": "High-End Ergonomic Mesh Chairs",
+      "backType": "High Back & Medium Back",
+      "colors": [
+        "GREY",
+        "BLACK"
+      ],
+      "price": 26000,
+      "priceNote": "Starting price (FEDO BLACK MB), per unit",
+      "priceVariants": [
+        {
+          "label": "FEDO BLACK HB",
+          "price": 27000
+        },
+        {
+          "label": "FEDO GREY MB",
+          "price": 28000
+        },
+        {
+          "label": "FEDO GREY HB",
+          "price": 29500
+        }
+      ],
+      "images": [
+        "images/fedo-series-1.jpg"
+      ],
+      "specs": [
+        "Ergonomic Design: Glass-filled nylon backrest.",
+        "Comfortable Breathable Mesh: High-quality mesh prevents sweating.",
+        "Mechanism: Synchro tilt multi-lock for relaxation.",
+        "Full Adjustment: Headrest, Lumbar support, 3D Gel PU Armrest; Sliding seat; BIFMA gas lift."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "silky-series",
+      "name": "SILKY SERIES",
+      "category": "High-End Ergonomic Mesh Chairs",
+      "backType": "High Back & Medium Back",
+      "colors": [
+        "BLACK",
+        "GREY",
+        "BLUE"
+      ],
+      "price": 25000,
+      "priceNote": "Starting price (SILKY BLACK MB), per unit",
+      "priceVariants": [
+        {
+          "label": "SILKY BLACK HB",
+          "price": 26000
+        },
+        {
+          "label": "SILKY GREY BLUE MB",
+          "price": 27000
+        },
+        {
+          "label": "SILKY GREY BLUE HB",
+          "price": 28000
+        }
+      ],
+      "images": [
+        "images/silky-series-1.jpg"
+      ],
+      "specs": [
+        "Dynamic bionic spine pressure relief chair for superior comfort.",
+        "Breathable Wire Mesh with weight balance synchrotilt multilock mechanism.",
+        "4D PU Armrest, sliding seat, BIFMA gas lift, aluminum base with nylon castors."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "inspire-series",
+      "name": "INSPIRE SERIES",
+      "category": "High-End Ergonomic Mesh Chairs",
+      "backType": "High Back & Medium Back",
+      "colors": [],
+      "price": 23500,
+      "priceNote": "Starting price (BLACK FRAME BLACK CUSHION MB), per unit",
+      "priceVariants": [
+        {
+          "label": "BLACK FRAME BLACK CUSHION HB",
+          "price": 24500
+        },
+        {
+          "label": "BLACK FRAME BLACK MESH MB",
+          "price": 25500
+        },
+        {
+          "label": "WHITE FRAME GREY CUSHION MB",
+          "price": 25500
+        },
+        {
+          "label": "BLACK FRAME BLACK MESH HB",
+          "price": 26500
+        },
+        {
+          "label": "WHITE FRAME GREY CUSHION HB",
+          "price": 26500
+        },
+        {
+          "label": "GREY FRAME BLUE MESH MB",
+          "price": 27000
+        },
+        {
+          "label": "GREY FRAME BLUE MESH HB",
+          "price": 28000
+        }
+      ],
+      "images": [
+        "images/inspire-series-1.jpg"
+      ],
+      "specs": [
+        "Dynamic bionic spine design with Korean wire mesh and weight balance synchrotilt mechanism.",
+        "Full adjustability: headrest, lumbar support, 3D PU armrest, sliding seat with BIFMA gas lift."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "curve",
+      "name": "CURVE",
+      "category": "High-End Ergonomic Mesh Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 14500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/curve-1.jpg"
+      ],
+      "specs": [
+        "Advanced bionic spine pressure relief designs.",
+        "Premium Korean wire mesh, 3D/4D functional armrests, automatic flexible lumbar systems, and heavy-duty aluminium components."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "innova",
+      "name": "INNOVA",
+      "category": "High-End Ergonomic Mesh Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 14500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/innova-1.jpg"
+      ],
+      "specs": [
+        "Advanced bionic spine pressure relief designs.",
+        "Premium Korean wire mesh, 3D/4D functional armrests, automatic flexible lumbar systems, and heavy-duty aluminium components."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "bravo",
+      "name": "BRAVO",
+      "category": "High-End Ergonomic Mesh Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 14500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/bravo-1.jpg"
+      ],
+      "specs": [
+        "Advanced bionic spine pressure relief designs.",
+        "Premium Korean wire mesh, 3D/4D functional armrests, automatic flexible lumbar systems, and heavy-duty aluminium components."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "spider",
+      "name": "SPIDER",
+      "category": "High-End Ergonomic Mesh Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 14500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/spider-1.jpg"
+      ],
+      "specs": [
+        "Advanced bionic spine pressure relief designs.",
+        "Premium Korean wire mesh, 3D/4D functional armrests, automatic flexible lumbar systems, and heavy-duty aluminium components."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "glider",
+      "name": "GLIDER",
+      "category": "High-End Ergonomic Mesh Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 14500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/glider-1.jpg"
+      ],
+      "specs": [
+        "Advanced bionic spine pressure relief designs.",
+        "Premium Korean wire mesh, 3D/4D functional armrests, automatic flexible lumbar systems, and heavy-duty aluminium components."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "dolphin",
+      "name": "DOLPHIN",
+      "category": "Workstation Series",
+      "backType": null,
+      "colors": [],
+      "price": 13500,
+      "priceNote": "Starting price (BLACK), per unit",
+      "priceVariants": [
+        {
+          "label": "GREY",
+          "price": 14500
+        }
+      ],
+      "images": [
+        "images/dolphin-1.jpg"
+      ],
+      "specs": [
+        "Elastic mesh back, 8cm thick molded foam fabric seat, fixed PP arms, swivel tilt, Class 3 gas lift."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "zeneth",
+      "name": "ZENETH",
+      "category": "Workstation Series",
+      "backType": "High Back & Medium Back",
+      "colors": [],
+      "price": 9500,
+      "priceNote": "Starting price (BLACK MB), per unit",
+      "priceVariants": [
+        {
+          "label": "GREY MB",
+          "price": 10500
+        },
+        {
+          "label": "BLACK HB",
+          "price": 10500
+        },
+        {
+          "label": "GREY HB",
+          "price": 11500
+        }
+      ],
+      "images": [
+        "images/zeneth-1.jpg"
+      ],
+      "specs": [
+        "Elastic mesh back, fabric seat, fixed PP arms, swivel tilt, Class 3 gas lift with SGS certification."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "polo",
+      "name": "POLO",
+      "category": "Workstation Series",
+      "backType": null,
+      "colors": [],
+      "price": 9200,
+      "priceNote": "Starting price (BLACK MRP), per unit",
+      "priceVariants": [
+        {
+          "label": "GREY MRP",
+          "price": 10000
+        }
+      ],
+      "images": [
+        "images/polo-1.jpg"
+      ],
+      "specs": [
+        "Centre tilt single position lock, cantilever fixed arms with padded cushion & flipping movement, nylon base."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "riffle-luma",
+      "name": "RIFFLE & LUMA",
+      "category": "Workstation Series",
+      "backType": null,
+      "colors": [],
+      "price": 7300,
+      "priceNote": "Starting price (LUMA BLACK), per unit",
+      "priceVariants": [
+        {
+          "label": "LUMA GREY",
+          "price": 8100
+        },
+        {
+          "label": "RIFFLE BLACK",
+          "price": 9500
+        },
+        {
+          "label": "RIFFLE GREY",
+          "price": 10000
+        }
+      ],
+      "images": [
+        "images/riffle-luma-1.jpg"
+      ],
+      "specs": [
+        "Syncro single lock mechanism, adjustable arms, molded soft cushion seat, ergonomic lumbar support."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "swift",
+      "name": "SWIFT",
+      "category": "Workstation Series",
+      "backType": null,
+      "colors": [],
+      "price": 5500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/swift-1.jpg"
+      ],
+      "specs": [
+        "Budget friendly ergonomic workstations with Korean wire mesh or nylon mesh options, weight balanced tilt systems."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "glider-2",
+      "name": "GLIDER",
+      "category": "Workstation Series",
+      "backType": null,
+      "colors": [],
+      "price": 5500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/glider-2-1.jpg"
+      ],
+      "specs": [
+        "Budget friendly ergonomic workstations with Korean wire mesh or nylon mesh options, weight balanced tilt systems."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "zita",
+      "name": "ZITA",
+      "category": "Workstation Series",
+      "backType": null,
+      "colors": [],
+      "price": 5500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/zita-1.jpg"
+      ],
+      "specs": [
+        "Budget friendly ergonomic workstations with Korean wire mesh or nylon mesh options, weight balanced tilt systems."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "hive",
+      "name": "HIVE",
+      "category": "Workstation Series",
+      "backType": null,
+      "colors": [],
+      "price": 5500,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/hive-1.jpg"
+      ],
+      "specs": [
+        "Budget friendly ergonomic workstations with Korean wire mesh or nylon mesh options, weight balanced tilt systems."
+      ],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "t1-training-chair",
+      "name": "T1 Training Chair",
+      "category": "Training Room Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 13000,
+      "priceNote": "Starting price (MRP), per unit",
+      "priceVariants": [],
+      "images": [
+        "images/t1-training-chair-1.jpg"
+      ],
+      "specs": [],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "t2-training-chair",
+      "name": "T2 Training Chair",
+      "category": "Training Room Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 9500,
+      "priceNote": "Starting price (MRP), per unit",
+      "priceVariants": [],
+      "images": [
+        "images/t2-training-chair-1.jpg"
+      ],
+      "specs": [],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "t3-training-chair",
+      "name": "T3 Training Chair",
+      "category": "Training Room Chairs",
+      "backType": null,
+      "colors": [],
+      "price": 9000,
+      "priceNote": "Starting price (MRP), per unit",
+      "priceVariants": [],
+      "images": [
+        "images/t3-training-chair-1.jpg"
+      ],
+      "specs": [],
+      "description": "",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "ts-1-series",
+      "name": "TS 1 Series",
+      "category": "Tandem Seating (Airport / Waiting Lounge)",
+      "backType": null,
+      "colors": [],
+      "price": 9500,
+      "priceNote": "Starting price (2 SEATER), per unit",
+      "priceVariants": [
+        {
+          "label": "3 SEATER 30 5KG",
+          "price": 10500
+        },
+        {
+          "label": "HEAVY 3 SEATER 35 5KG",
+          "price": 12000
+        }
+      ],
+      "images": [
+        "images/ts-1-series-1.jpg"
+      ],
+      "specs": [],
+      "description": "Standard robust waiting lounge seating.",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "ts-2-series",
+      "name": "TS 2 Series",
+      "category": "Tandem Seating (Airport / Waiting Lounge)",
+      "backType": null,
+      "colors": [],
+      "price": 12000,
+      "priceNote": "Starting price (2 SEATER), per unit",
+      "priceVariants": [
+        {
+          "label": "3 SEATER",
+          "price": 14500
+        }
+      ],
+      "images": [
+        "images/ts-2-series-1.jpg"
+      ],
+      "specs": [],
+      "description": "Enhanced comfort lounge seating.",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "ts-3-series-stainless-steel",
+      "name": "TS 3 Series (Stainless Steel)",
+      "category": "Tandem Seating (Airport / Waiting Lounge)",
+      "backType": null,
+      "colors": [],
+      "price": 15500,
+      "priceNote": "Starting price (2 SEATER), per unit",
+      "priceVariants": [
+        {
+          "label": "3 SEATER",
+          "price": 17500
+        }
+      ],
+      "images": [
+        "images/ts-3-series-stainless-steel-1.jpg"
+      ],
+      "specs": [],
+      "description": "Premium ultra-durable rust-free stainless steel.",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "ts-4",
+      "name": "TS 4",
+      "category": "Tandem Seating (Airport / Waiting Lounge)",
+      "backType": null,
+      "colors": [],
+      "price": 25000,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/ts-4-1.jpg"
+      ],
+      "specs": [],
+      "description": "Premium PU Seating - Luxury padded polyurethane seating with optional middle arms and premium aluminium alloy base/legs.",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "ts-5",
+      "name": "TS 5",
+      "category": "Tandem Seating (Airport / Waiting Lounge)",
+      "backType": null,
+      "colors": [],
+      "price": 25000,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/ts-5-1.jpg"
+      ],
+      "specs": [],
+      "description": "Premium PU Seating - Luxury padded polyurethane seating with optional middle arms and premium aluminium alloy base/legs.",
+      "bulkThreshold": 5
+    },
+    {
+      "id": "ts-7",
+      "name": "TS 7",
+      "category": "Tandem Seating (Airport / Waiting Lounge)",
+      "backType": null,
+      "colors": [],
+      "price": 25000,
+      "priceNote": "Starting price, per unit",
+      "priceVariants": [],
+      "images": [
+        "images/ts-7-1.jpg"
+      ],
+      "specs": [],
+      "description": "Premium PU Seating - Luxury padded polyurethane seating with optional middle arms and premium aluminium alloy base/legs.",
+      "bulkThreshold": 5
+    }
+  ]
+}
