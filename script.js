@@ -35,6 +35,23 @@ function chairSVG(tint) {
   </svg>`;
 }
 
+/* Renders real photo if it exists, SVG placeholder if not.
+   onerror fires if the image 404s — swaps in the SVG silently. */
+function renderImg(p, tint, isModal = false) {
+  const src = p.images && p.images[0];
+  if (!src) return chairSVG(tint);
+  const fit = isModal
+    ? 'width:100%;height:100%;object-fit:cover;border-radius:inherit;'
+    : 'width:100%;height:100%;object-fit:cover;';
+  const fallback = chairSVG(tint).replace(/`/g, "'");
+  return `<img
+    src="${src}"
+    alt="${p.name}"
+    style="${fit}"
+    onerror="this.style.display='none';this.insertAdjacentHTML('afterend','${chairSVG(tint).replace(/"/g, '&quot;').replace(/'/g, '\\x27')}')"
+  >`;
+}
+
 const WHATSAPP_ICON = `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.46 1.32 4.96L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21h.01c5.46 0 9.91-4.45 9.91-9.91C21.96 6.45 17.5 2 12.04 2zm5.81 14.07c-.24.68-1.41 1.32-1.95 1.4-.5.08-1.12.11-1.81-.11-.42-.13-.96-.31-1.65-.6-2.91-1.26-4.81-4.21-4.96-4.41-.14-.2-1.19-1.58-1.19-3.01 0-1.43.75-2.13 1.02-2.42.27-.29.58-.36.78-.36.2 0 .39 0 .56.01.18.01.42-.07.65.5.24.59.82 2.02.89 2.17.07.15.12.32.02.52-.1.2-.15.32-.3.49-.15.17-.31.38-.45.51-.15.15-.3.31-.13.61.17.3.76 1.26 1.64 2.04 1.13 1 2.08 1.32 2.38 1.47.3.15.48.13.65-.08.18-.2.75-.87.95-1.17.2-.3.4-.25.66-.15.27.1 1.7.8 1.99.95.3.15.49.22.56.35.08.13.08.74-.16 1.42z"/></svg>`;
 
 const PHONE_ICON = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg>`;
@@ -120,7 +137,7 @@ function renderGrid() {
     <div class="card" data-id="${p.id}" style="--card-tint: color-mix(in srgb, ${tint} 12%, var(--bg-alt));">
       <div class="card-media">
         <span class="card-cat-eyebrow">${p.category}</span>
-        ${p.images[0] ? `<img src="${p.images[0]}" alt="${p.name}" style="width:100%;height:100%;object-fit:cover;">` : chairSVG(tint)}
+        ${renderImg(p, tint)}
         <div class="swing-tag"><span class="tag-prefix">FROM</span>${formatINR(p.price)}</div>
       </div>
       <div class="card-body">
@@ -181,7 +198,7 @@ function renderModal() {
     <button class="modal-close" id="modalCloseBtn" aria-label="Close">&times;</button>
     <div class="modal-grid">
       <div class="modal-media" style="--modal-tint: color-mix(in srgb, ${tint} 14%, var(--bg-alt));">
-        ${p.images[0] ? `<img src="${p.images[0]}" alt="${p.name}" style="width:100%;height:100%;object-fit:cover;">` : chairSVG(tint)}
+        ${renderImg(p, tint, true)}
       </div>
       <div class="modal-info">
         <div class="modal-eyebrow">${p.category}</div>
