@@ -120,7 +120,7 @@ function renderGrid() {
     <div class="card" data-id="${p.id}" style="--card-tint: color-mix(in srgb, ${tint} 12%, var(--bg-alt));">
       <div class="card-media">
         <span class="card-cat-eyebrow">${p.category}</span>
-        ${chairSVG(tint)}
+        ${p.images[0] ? `<img src="${p.images[0]}" alt="${p.name}" style="width:100%;height:100%;object-fit:cover;">` : chairSVG(tint)}
         <div class="swing-tag"><span class="tag-prefix">FROM</span>${formatINR(p.price)}</div>
       </div>
       <div class="card-body">
@@ -181,7 +181,7 @@ function renderModal() {
     <button class="modal-close" id="modalCloseBtn" aria-label="Close">&times;</button>
     <div class="modal-grid">
       <div class="modal-media" style="--modal-tint: color-mix(in srgb, ${tint} 14%, var(--bg-alt));">
-        ${chairSVG(tint)}
+        ${p.images[0] ? `<img src="${p.images[0]}" alt="${p.name}" style="width:100%;height:100%;object-fit:cover;">` : chairSVG(tint)}
       </div>
       <div class="modal-info">
         <div class="modal-eyebrow">${p.category}</div>
